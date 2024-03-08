@@ -1,0 +1,5 @@
+[35mDEBUG   [0m Test_credKart_Login:test_Login.py:15 This is debug
+[31mCRITICAL[0m Test_credKart_Login:test_Login.py:16 This is warning
+[33mWARNING [0m Test_credKart_Login:test_Login.py:17 This is warning
+[1m[31mERROR   [0m Test_credKart_Login:test_Login.py:18 This is error
+[32mINFO    [0m Test_credKart_Login:test_Login.py:19 This is info

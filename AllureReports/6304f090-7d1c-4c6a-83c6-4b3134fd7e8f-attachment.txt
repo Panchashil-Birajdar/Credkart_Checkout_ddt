@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_Login.py:15 Started testcase
+[32mINFO    [0m root:test_Login.py:16 Opening browser
+[32mINFO    [0m root:test_Login.py:17 title of page is 'Credkart'
+[32mINFO    [0m root:test_Login.py:19 taking screenshot
+[32mINFO    [0m root:test_Login.py:22 Testcase is passed
+[32mINFO    [0m root:test_Login.py:31 Testcase is completed
